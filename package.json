@@ -2,9 +2,9 @@
   "name": "webdev-gifts1",
   "version": "1.0.0",
   "main": "node server/server.js",
-
   "dependencies": {
     "@stripe/stripe-js": "^1.14.0",
+    "bcrypt": "^5.0.1",
     "bootstrap": "^5.0.1",
     "graphql": "^15.5.0",
     "hover.css": "^2.3.2",
