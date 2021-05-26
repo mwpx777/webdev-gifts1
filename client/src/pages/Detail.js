@@ -113,7 +113,7 @@ function Detail() {
                     <div className="row justify-content-start py-4">
                         
                     {
-                        currentProduct._id == "60a6f97604860b499ce41857" || currentProduct._id == "60a6f97604860b499ce41856" ?
+                        currentProduct._id == "60ae9865152ba173c0ee0898" || currentProduct._id == "60ae9865152ba173c0ee0899" ?
                             (
                                 <div>
                                     <select className="form-select dropdown" aria-label="Default select example" onChange={handleSelect} id="dropdown">
