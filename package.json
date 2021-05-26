@@ -1,7 +1,8 @@
 {
   "name": "webdev-gifts1",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "server/server.js",
+
   "dependencies": {
     "@stripe/stripe-js": "^1.14.0",
     "bootstrap": "^5.0.1",
@@ -18,14 +19,13 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
     "start:prod": "cd server && npm start",
     "start:dev": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
     "install": "cd server && npm i && cd ../client && npm i",
     "seed": "cd server && npm run seed",
-    "heroku-postbuild": "cd client && npm run build",
-    "concurrently": "^6.1.0",
-    "webpack-pwa-manifest": "^4.3.0"
+    "heroku-postbuild": "cd client && npm run build"
   },
   "eslintConfig": {
     "extends": [
