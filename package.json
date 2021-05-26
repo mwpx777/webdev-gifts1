@@ -6,6 +6,7 @@
     "@stripe/stripe-js": "^1.14.0",
     "bcrypt": "^5.0.1",
     "bootstrap": "^5.0.1",
+    "concurrently": "^6.2.0",
     "graphql": "^15.5.0",
     "hover.css": "^2.3.2",
     "if-env": "^1.0.4",
@@ -46,7 +47,6 @@
     ]
   },
   "devDependencies": {
-    "concurrently": "^6.2.0",
     "webpack-pwa-manifest": "^4.3.0"
   }
 }
