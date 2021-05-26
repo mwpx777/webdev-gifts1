@@ -5,6 +5,7 @@
   "dependencies": {
     "@stripe/stripe-js": "^1.14.0",
     "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
     "bootstrap": "^5.0.1",
     "concurrently": "^6.2.0",
     "graphql": "^15.5.0",
