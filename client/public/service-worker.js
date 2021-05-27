@@ -1,8 +1,9 @@
 // const FILES_TO_CACHE=[
 //     "./index.html",
 // ]
+// PUBLIC FOLDER
 const FILES_TO_CACHE=[
-    "/",
+    "./index.html",
 ]
 
 
