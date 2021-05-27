@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b27c00de.chunk.css",
+    "main.js": "/static/js/main.ecdfaf65.chunk.js",
+    "main.js.map": "/static/js/main.ecdfaf65.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a06e69b5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a06e69b5.js.map",
+    "static/js/2.92585302.chunk.js": "/static/js/2.92585302.chunk.js",
+    "static/js/2.92585302.chunk.js.map": "/static/js/2.92585302.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b27c00de.chunk.css.map": "/static/css/main.b27c00de.chunk.css.map",
+    "static/js/2.92585302.chunk.js.LICENSE.txt": "/static/js/2.92585302.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/madison-skyline.c449facf.jpg",
+    "static/media/spinner.689d9a07.gif": "/static/media/spinner.689d9a07.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a06e69b5.js",
+    "static/js/2.92585302.chunk.js",
+    "static/css/main.b27c00de.chunk.css",
+    "static/js/main.ecdfaf65.chunk.js"
+  ]
+}
