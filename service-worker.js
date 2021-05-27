@@ -1,5 +1,9 @@
+// const FILES_TO_CACHE=[
+//     "./index.html",
+// ]
+
 const FILES_TO_CACHE=[
-    "./index.html",
+    "/",
 ]
 
 const APP_PREFIX='webdev-gifts-';
